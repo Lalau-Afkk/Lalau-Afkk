@@ -1,7 +1,7 @@
 <!--
   README de perfil — Laura Souto de Oliveira
   Paleta: preto + roxo
---><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:30105E,100:7C3AED&height=200&section=header&text=Laura%20Souto&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20Web&descSize=17&descAlignY=60&animation=fadeIn" alt="Banner de Laura Souto" /><a href="https://git.io/typing-svg">
+--><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:30105E,100:7C3AED&height=200&section=header&text=Laura%20Souto&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20Web&descSize=17&descAlignY=60&animation=fadeIn" alt="Banner de Laura S. de Oliveira" /><a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica+para+Internet;Explorando+HTML%2C+CSS+e+JavaScript;Transformando+ideias+em+interfaces" alt="Animação de texto" />
 </a><br/><a href="https://br.linkedin.com/in/laura-souto-de-oliveira-41106a2b5">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
