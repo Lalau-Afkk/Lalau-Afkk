@@ -49,14 +49,7 @@ Em breve
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalau-Afkk&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=6" alt="Linguagens mais utilizadas" />
 </a><br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Lalau-Afkk&theme=transparent&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Sequência de contribuições no GitHub" width="70%" /></div>"05" — Activity Graph
-
-<div align="center"><a href="https://github.com/Lalau-Afkk">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lalau-Afkk&bg_color=09090B&color=E4E4E7&line=8B5CF6&point=C4B5FD&area=true&area_color=30105E&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade do GitHub" />
-</a></div>"06" — GitHub Trophies
-
-<div align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Lalau-Afkk&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Conquistas do GitHub" /></div>"07" — Contribution Snake
-
+<img src="https://streak-stats.demolab.com?user=Lalau-Afkk&theme=transparent&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Sequência de contribuições no GitHub" width="70%" /
 <div align="center"><img width="100%" src="https://raw.githubusercontent.com/Lalau-Afkk/output/main/github-snake.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições" /></div>"08" — Conecte-se comigo
 
 <div align="center"><a href="https://br.linkedin.com/in/laura-souto-de-oliveira-41106a2b5">
