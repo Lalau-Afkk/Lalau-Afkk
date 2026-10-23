@@ -49,8 +49,7 @@ Em breve
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalau-Afkk&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=6" alt="Linguagens mais utilizadas" />
 </a><br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Lalau-Afkk&theme=transparent&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Sequência de contribuições no GitHub" width="70%" /
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/Lalau-Afkk/output/main/github-snake.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições" /></div>"08" — Conecte-se comigo
+ Conecte-se comigo
 
 <div align="center"><a href="https://br.linkedin.com/in/laura-souto-de-oliveira-41106a2b5">
   <img src="https://img.shields.io/badge/LinkedIn-Laura%20Souto-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Laura Souto" />
