@@ -1,5 +1,4 @@
 name: Generate Contribution Snake
-
 on:
 schedule:
 - cron: "0 0 * * *"
@@ -7,14 +6,11 @@ workflow_dispatch:
 push:
 branches:
 - main
-
 permissions:
 contents: write
-
 jobs:
 generate:
 runs-on: ubuntu-latest
-
 steps:
   - name: Generate contribution snake
     uses: Platane/snk@v3
