@@ -8,7 +8,7 @@
 </a>
 <img src="https://img.shields.io/badge/Focus-Web%20Development-18181B?style=for-the-badge&logo=codeigniter&logoColor=A78BFA" alt="Foco em desenvolvimento web" /></div>---
 
-"01" — Sobre mim
+ Sobre mim
 
 Olá! Sou Laura Souto de Oliveira, estudante de Técnico em Informática para Internet.
 
@@ -22,11 +22,11 @@ Atualmente, minhas tecnologias de estudo são:
 
 Este perfil reúne meus estudos, minha evolução e os projetos que desenvolvo ao longo da minha jornada.
 
-"02" — Tecnologias
+ Tecnologias
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" /><br/><img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></div>"03" — Projetos
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></div> — Projetos
 
 <div align="center"><table>
 <tr>
@@ -34,30 +34,7 @@ Este perfil reúne meus estudos, minha evolução e os projetos que desenvolvo a
 
 Em breve
 
-Espaço para apresentar um projeto, seus objetivos e as tecnologias utilizadas.
 
-<!-- Substitua este card por um projeto real. --></td>
-<td width="50%" valign="top">Projeto 02
-
-Em breve
-
-Espaço para destacar outra aplicação, interface ou projeto de estudo.
-
-<!-- Adicione aqui o link do repositório correspondente. --></td>
-</tr>
-<tr>
-<td width="50%" valign="top">Projeto 03
-
-Em breve
-
-Espaço para compartilhar novos aprendizados colocados em prática.
-
-</td>
-<td width="50%" valign="top">Projeto 04
-
-Em breve
-
-Espaço para apresentar um projeto pessoal ou acadêmico.
 
 </td>
 </tr>
